@@ -12,7 +12,7 @@
 // GNU General Public License for more details.
 //
 // You should have received a copy of the GNU General Public License
-// along with Moodle.  If not, see <http://gnu.org>.
+// along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
  * Generador de datos de prueba para ChuspaSocial.
@@ -20,7 +20,7 @@
  * @package    local_chuspasocial
  * @category   test
  * @copyright  2026 sis-inf
- * @license    http://gnu.org GNU GPL v3 or later
+ * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
 defined('MOODLE_INTERNAL') || die();
@@ -31,8 +31,7 @@ defined('MOODLE_INTERNAL') || die();
  * @package    local_chuspasocial
  * @category   test
  * @copyright  2026 sis-inf
- * @license    http://gnu.org GNU GPL v3 or later
+ * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 class local_chuspasocial_generator extends component_generator_base {
-    
 }
